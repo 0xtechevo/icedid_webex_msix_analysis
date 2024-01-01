@@ -1,0 +1,43 @@
+fd       3
+file     PsfRuntime64.dll
+size     0x6d9a0
+humansz  438.4K
+mode     r-x
+format   pe64
+iorw     false
+block    0x100
+type     DLL (Dynamic Link Library)
+arch     x86
+baddr    0x180000000
+binsz    448928
+bintype  pe
+bits     64
+canary   false
+injprot  false
+retguard false
+class    PE32+
+cmp.csum 0x0006ddfc
+compiled Wed Dec 14 14:01:14 2022
+crypto   false
+dbg_file C:\ReleaseAI\tools\msix-psf\x64\Release\PsfRuntime64.pdb
+endian   little
+havecode true
+hdr.csum 0x000751d2
+guid     2D6929015FC749A3B2DF8381FB6B8B281
+laddr    0x0
+lang     msvc
+linenum  false
+lsyms    false
+machine  AMD 64
+nx       true
+os       windows
+overlay  true
+cc       ms
+pic      true
+relocs   false
+signed   true
+sanitize false
+static   false
+stripped false
+subsys   Windows GUI
+va       true
