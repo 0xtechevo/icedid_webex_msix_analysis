@@ -1,0 +1,64 @@
+PATH,TYPE,VALUE,MTIME
+WARN: File header indicated root key at location 0x00001020, but no root key found. Searching rest of file...
+/,KEY,,2023-08-07 15:50:07
+/REGISTRY,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/,NONE,%00%00%00%00,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/AppDataFolder,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/APPDIR,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/DisplayName,SZ,Webex,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/LocalAppDataFolder,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/PackageDataFolder,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/ProgramDataFolder,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/SHORTCUTDIR,SZ,ProgramMenuFolder\Webex,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/ShowNotification,SZ,false,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/UiLevel,SZ,0,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/UninstallCode,SZ,{9E8782E4-35AE-43BC-ACC3-FD058731D742},
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/UserDataFolder,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/,NONE,%00%00%00%00,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/AppAlias,SZ,Webex.exe,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/Args,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/Description,SZ,Webex,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/DisplayName,SZ,Webex.lnk,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/HotKey,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/IconPath,SZ,[{AppVPackageRoot}]\AI_STUBS\Webex.0.ico,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/RunAsAdmin,SZ,false,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/RunMode,SZ,1,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/ShortcutPath,SZ,%25APPDATA%25\Microsoft\Windows\Start Menu\Programs\Webex,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/WorkingDirectoryAi,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/WorkingDirectorySys,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/0/WorkingDirectoryUwp,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/,NONE,%00%00%00%00,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/AppAlias,SZ,Webex.exe,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/Args,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/Description,SZ,Webex,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/DisplayName,SZ,Webex.lnk,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/HotKey,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/IconPath,SZ,[{AppVPackageRoot}]\AI_STUBS\Webex.1.ico,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/RunAsAdmin,SZ,false,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/RunMode,SZ,1,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/ShortcutPath,SZ,%25USERPROFILE%25\Desktop,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/WorkingDirectoryAi,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/WorkingDirectorySys,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Package_CiscoSystems.Webex/Shortcuts/1/WorkingDirectoryUwp,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/,NONE,%00%00%00%00,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/Args,SZ,,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/Package,SZ,Package_CiscoSystems.Webex,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/Path,SZ,[{AppVPackageRoot}]\Webex.exe,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/PathAi,SZ,[{AppVPackageRoot}]\Webex.exe,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/RunMode,SZ,1,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/WorkingDirectoryAi,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/WorkingDirectorySys,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Caphyon/Advanced Installer/Webex/WorkingDirectoryUwp,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Cisco Systems,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Cisco Systems/Webex,KEY,,2023-08-07 15:50:07
+/REGISTRY/MACHINE/Software/Cisco Systems/Webex/Path,SZ,[{AppVPackageRoot}]\,
+/REGISTRY/MACHINE/Software/Cisco Systems/Webex/Version,SZ,2.10.1.26171,
